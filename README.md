@@ -56,7 +56,7 @@ streamlit run app/app.py
 ## 📊 Model Accuracy
 **Accuracy:** 96%
 
-(Replace XX% with your actual accuracy)
+
 
 ---
 
